@@ -15,5 +15,5 @@ Ambos ficheros están organizados con las mismas secciones:
 ## Ejemplo sencillo
 En el fichero "SMCCA-GS-DP_MS_RNA-Cohorte_Cancer_De_Mama" se corresponde con la aplicación y comparación de PCA y SMCCA-GS sobre la cohorte ómica de pacientes con cáncer de mama. Se puede consultar en: https://jyjumu.github.io/TFG/SMCCA-GS-DP_MS_RNA-Cohorte_Cancer_De_Mama.html
 
-# ROSMAP
+## ROSMAP
 En el fichero "PCA_SMCCA_GS-ROSMAP - cohorte_ROSMAP" se corresponde con la aplicación y comparación de PCA y SMCCA-GS sobre la cohorte ómica de pacientes del proyecto ROSMAP. Se puede consultar en: https://jyjumu.github.io/TFG/PCA_SMCCA_GS-ROSMAP%20-%20cohorte_ROSMAP.html
